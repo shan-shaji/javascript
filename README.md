@@ -1,2 +1,2 @@
-# javascript-30-
+# javascript-30
 30 Javascript Projects
