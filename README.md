@@ -1,2 +1,3 @@
-# javascript-30
-30 Javascript Projects
+# javascript
+
+<h3  align = "center">Javascript Projects<h3>
